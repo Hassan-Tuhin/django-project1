@@ -1,0 +1,4 @@
+#set path in windows powershell:
+
+Set-Location -Path C:\Windows
+Set-Location -Path \desktop
